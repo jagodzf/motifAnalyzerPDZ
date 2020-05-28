@@ -1,0 +1,16 @@
+Monosiga_brevicollis 81824 unreviewed
+Arabidopsis_thaliana 3702 unreviewed
+Bos_taurus 9913 unreviewed
+Caenorhabditis_elegans 6239 unreviewed
+Callorhinchus_milii 7868 unreviewed
+Danio_rerio 7955 unreviewed
+Dictyostelium_discoideum 44689 unreviewed
+Drosophila_melanogaster 7227 unreviewed
+Escherichia_coli 83333 reviewed
+Gallus_gallus 9031 unreviewed
+Homo_sapiens 9606 reviewed
+Mus_musculus 10090 unreviewed
+Nematostella_vectensis 45351 unreviewed
+Rattus_norvegicus 10116 unreviewed
+Saccharomyces_cerevisiae 559292 reviewed
+Xenopus_tropicalis 8364 unreviewed
